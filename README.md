@@ -3,7 +3,7 @@ How to implement Horizontal RecyclerView
 
 ## Horizontal RecyclerView
 
-https://github.com/neonankiti/PagerSnapHelperSample/blob/master/app/image/text_anim.gif
+<img src="https://github.com/neonankiti/PagerSnapHelperSample/blob/master/app/image/text_anim.gif" />
 
 
 * Horizontal
